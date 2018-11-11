@@ -1,0 +1,6 @@
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>linkedin</string>
+    <string>linkedin-sdk2</string>
+    <string>linkedin-sdk</string>
+</array>
