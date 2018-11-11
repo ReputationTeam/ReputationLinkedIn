@@ -1,0 +1,12 @@
+<key>LIAppId</key>
+<string>{Your LinkedIn app ID}</string>
+
+<key>CFBundleURLTypes</key>
+<array>
+	<dict>
+		<key>CFBundleURLSchemes</key>
+		<array>
+			<string>li{Your LinkedIn app ID}</string>
+		</array>
+	</dict>
+</array>
